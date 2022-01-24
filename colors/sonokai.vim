@@ -613,7 +613,7 @@ highlight! link CtrlPPrtCursor Blue
 " }}}
 " airblade/vim-gitgutter {{{
 highlight! link GitGutterAdd GreenSign
-highlight! link GitGutterChange BlueSign
+highlight! link GitGutterChange OrangeSign
 highlight! link GitGutterDelete RedSign
 highlight! link GitGutterChangeDelete PurpleSign
 highlight! link GitGutterAddLine DiffAdd
